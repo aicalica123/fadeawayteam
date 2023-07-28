@@ -1,0 +1,63 @@
+body{
+    width: 100%;
+    height: 100%;
+    margin:0; background-color: #3b3c3c;
+}
+.batman{
+      background-color: #3b3c3c;
+      height: 300px;
+      width: 100%;
+}
+main{
+    width: 980px;
+    position: relative;
+    margin: 0 auto;
+}
+.batlogo{
+    height: 200px;
+    padding: 50px;
+    padding-left: 200px;
+}
+.face{
+    display: inline-block;
+    float: right;
+    height:150px;
+    width: 150px;
+    padding-right: 60px;
+    padding-top: 50px;
+}
+.logo{
+    height: 300px;
+    width: 100%;
+}
+.abaixologo{
+    background-color: #3b3c3c;
+    width: 100%;
+    height: 200px;
+}
+.jogador{
+    font-size: 40;
+    font-style: italic;
+}
+.menu ul li {
+    display: inline-block;
+    color: #467a46;
+    margin-left: 10px;
+}
+.menu ul li a{
+    color: #467a46;
+    font-size: 30px;
+    text-decoration: none;
+}
+.menu{
+    float:left;
+    width:70%;
+}
+.busca{
+    float:right;
+    width: 30%;
+}
+.cem{
+    width: 100%;
+    float:left
+}
